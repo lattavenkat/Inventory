@@ -1,0 +1,2 @@
+# Inventory
+ Angular inventory project
